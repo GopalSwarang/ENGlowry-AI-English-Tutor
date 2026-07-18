@@ -139,63 +139,12 @@ Available options include:
 
 ---
 
-# 📁 Repository Structure
-
-```
-ENGlowry/
-│
-├── README.md
-├── AGENT.md
-├── USER_MANUAL.md
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── FAQ.md
-├── ROADMAP.md
-├── LICENSE
-├── CODE_OF_CONDUCT.md
-├── SECURITY.md
-│
-├── examples/
-├── screenshots/
-└── assets/
-```
-
----
-
 # 🚀 Getting Started
 
 1. Open ChatGPT.
 2. Copy the contents of `AGENT.md`.
 3. Paste it into a new chat.
 4. Start learning.
-
----
-
-# 📖 Documentation
-
-| File | Description |
-|------|-------------|
-| AGENT.md | Complete AI Agent |
-| USER_MANUAL.md | User Guide |
-| CHANGELOG.md | Version History |
-| ROADMAP.md | Future Plans |
-| FAQ.md | Frequently Asked Questions |
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-Please read `CONTRIBUTING.md` before opening a pull request.
-
----
-
-# 📄 License
-
-This project is released under the MIT License.
-
-See the LICENSE file for details.
 
 ---
 
